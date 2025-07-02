@@ -57,7 +57,7 @@ A simple command-line interface that allows users to choose from the various ava
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/nerdylelouch/OSlab-partB.git
+   git clone https://github.com/nerdylua/OSlab-partB.git
    cd OSlab-partB
    ```
 2. Compile the program:
